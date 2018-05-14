@@ -1,0 +1,10 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: 9246-F1F2
+
+ Directorio de D:\Nano\Clase\ETS\_examen 3\Git\EjercicioGit
+
+14/05/2018  19:50    <DIR>          .
+14/05/2018  19:50    <DIR>          ..
+14/05/2018  19:50                 0 c1.txt
+               1 archivos              0 bytes
+               2 dirs  354.516.144.128 bytes libres
